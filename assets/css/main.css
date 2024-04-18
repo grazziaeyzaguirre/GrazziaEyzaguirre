@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #f06ba9;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2831,7 +2831,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #ffb7d9;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
@@ -3410,7 +3410,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #f776b6;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3589,7 +3589,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #fa80a5;
 	}
 
 		#main > * {
